@@ -1,1 +1,10 @@
 https://www.petanikode.com/github-workflow/
+
+Cara clone github 
+git clone (url)
+
+cara commit
+git add (nama file)
+git commit -m (pesan commit)
+
+
